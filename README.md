@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parjanya Shakya</h1>
-<h3 align="center">A passionate laravel developer from Nepal</h3>
+<h3 align="center">A passionate Laravel Developer from Kathmandu,Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parjanya5797&label=Profile%20views&color=0e75b6&style=flat" alt="parjanya5797" /> </p>
 
