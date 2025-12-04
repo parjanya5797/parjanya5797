@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=parjanya5797&style=flat-square)
 # 💫 About Me:
 Hey! I'm Parjanya — a full-stack developer who loves bringing ideas to life through code.  <br>I’m always experimenting with new tech, improving my craft, and creating tools that make life easier.  <br>When I’m not coding, I’m exploring new frameworks, automating random things, or learning something cool online.
 
@@ -11,14 +12,13 @@ Hey! I'm Parjanya — a full-stack developer who loves bringing ideas to life th
 ![](https://readme-stats-fabio-vicente.vercel.app/api?username=parjanya5797&count_private=true&show_icons=true&theme=dracula)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parjanya5797&theme=dracula)<br/>
 
-## 🏆 GitHub Trophies
+<!--# Github Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=parjanya5797&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parjanya5797&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/parjanyashakya) 
